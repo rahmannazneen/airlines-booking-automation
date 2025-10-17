@@ -79,4 +79,4 @@ mvn test
 
 ## Author
 
-**Nazneen Rahman** – QA Automation Engineer
+**Nazneen Rahman** – SQA Automation Engineer
