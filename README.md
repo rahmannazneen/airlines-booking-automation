@@ -48,8 +48,6 @@ src/
 ```
 
 ## Features Automated
-
-### 1. User Authentication
 - Launch the airline booking application
 - Select the Flying From 
 - Select the Flying to
