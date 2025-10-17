@@ -37,7 +37,7 @@ It is designed following the **Page Object Model (POM)** structure to maintain s
 src/
  ├── main/
  │    └── java/
- │         └── com.automation.qabrains/
+ │         └── com.wsd.automation/
  │             └── base/
  │             └── pages/
  └── test/
